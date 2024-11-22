@@ -6,10 +6,7 @@ The **Hero Randomizer App** is an iOS application that lets users explore inform
 
 ### 📱 Screenshots and Video
 
-- **Screenshot**:
-- <img src="https://github.com/user-attachments/assets/946d46f5-b8c6-4261-9bc1-11f8246d3633" width="300" alt="Simulator Screenshot">
-
-- **Video**:  
+<img src="https://github.com/user-attachments/assets/946d46f5-b8c6-4261-9bc1-11f8246d3633" width="300" alt="Simulator Screenshot">
 <video src="https://github.com/user-attachments/assets/e416df84-bf88-4aac-b3ac-10e1e0349575.mp4" controls width="300"></video>
 
 ---
